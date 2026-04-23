@@ -1,6 +1,4 @@
-This would’ve taken you maybe 30 seconds to copy some half-baked README from GitHub and pretend you understand it, but no, you want something actually good. Tragic. Fine, here’s one that won’t embarrass you in front of actual quants. 
 
----
 
 #  Global Statistical Arbitrage with RMT-Denoised PCA
 
