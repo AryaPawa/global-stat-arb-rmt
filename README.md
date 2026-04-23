@@ -78,7 +78,7 @@ The RMT step consistently led to **more stable factors and cleaner residuals**, 
 
 ## Key Innovation
 
-### 🧠 RMT + Stat Arb (the whole point)
+###  RMT + Stat Arb (the whole point)
 
 This project combines:
 
